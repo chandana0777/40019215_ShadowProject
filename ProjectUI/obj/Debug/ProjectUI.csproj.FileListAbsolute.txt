@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectUI.exe.config
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectUI.exe
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectUI.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectBL.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectDTO.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectDAL.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectBL.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectDTO.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\bin\Debug\ProjectDAL.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\obj\Debug\ProjectUI.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\obj\Debug\ProjectUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\obj\Debug\ProjectUI.csproj.CopyComplete
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\obj\Debug\ProjectUI.exe
+C:\Users\admin\source\repos\ProjectUI\ProjectUI\obj\Debug\ProjectUI.pdb

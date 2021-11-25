@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\bin\Debug\ProjectDTO.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\bin\Debug\ProjectDTO.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\obj\Debug\ProjectDTO.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\obj\Debug\ProjectDTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\obj\Debug\ProjectDTO.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectDTO\obj\Debug\ProjectDTO.pdb

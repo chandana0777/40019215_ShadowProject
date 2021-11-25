@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MVC.Models.Product>
+
+@{
+    ViewBag.Title = "ViewProduct";
+}
+
+<h3>View Product</h3>
+
+
+<p style="text-align:right ;">
+
+    <input type="button" class="btn btn-primary" style="background-color:green" value="Add Products" onclick="location.href='@Url.Action("Create", "User")'" />
+
+
+
+</p>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+
+        <input type="button" class="btn btn-primary" style="background-color:green" value="Edit" onclick="location.href='@Url.Action("Edit", "User", new { @Id=@item.ID })'" />
+    
+        <input type="button" class="btn btn-primary" style="background-color:green" value="Delete" onclick="location.href='@Url.Action("Delete", "User", new { @Id=@item.ID })'" />
+    </td>
+
+</tr>
+    }
+
+</table>

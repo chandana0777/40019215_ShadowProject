@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectBL.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectBL.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectDAL.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectDTO.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectDAL.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectDTO.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\obj\Debug\ProjectBL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\obj\Debug\ProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\obj\Debug\ProjectBL.csproj.CopyComplete
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\obj\Debug\ProjectBL.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\obj\Debug\ProjectBL.pdb
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\ProjectDAL.dll.config
+C:\Users\admin\source\repos\ProjectUI\ProjectBL\bin\Debug\EntityFramework.xml
